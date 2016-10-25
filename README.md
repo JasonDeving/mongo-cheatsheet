@@ -28,6 +28,7 @@ New terminal make sure you have two terminals
 
 # Example:
 ```js
+// shows databases
 show dbs
 // select database
 use databasename
