@@ -22,6 +22,8 @@ New terminal make sure you have two terminals
 `show dbs`
 ## select database
 `use databasename`
+## show what database your in
+`db`
 ## To see tables
 `show collections`
 
